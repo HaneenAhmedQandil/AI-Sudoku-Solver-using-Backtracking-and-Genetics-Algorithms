@@ -38,8 +38,8 @@ cd AI-Sudoku-Solver-using-Backtracking-and-Genetics-Algorithms
 
 ### Backtracking Algorithm
 
-<img src="Backtracking_vid.gif" alt="Backtracking Visualization" width="400" height="300">
+<img src="Images/Backtracking_vid.gif" alt="Backtracking Visualization" width="400" height="300">
 
 ### Genetic Algorithm Visualization
 
-<img src="Genetics_vid.gif" alt="Genetic Algorithm Visualization" width="400" height="300">
+<img src="Images/Genetics_vid.gif" alt="Genetic Algorithm Visualization" width="400" height="300">
